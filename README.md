@@ -20,3 +20,7 @@ Built an interactive Power BI dashboard to analyze sales performance, trends, an
 - Power BI
 - SQL
 - Excel
+
+## 🎥 Project Demo
+▶️ Watch dashboard walkthrough (Google Drive):
+https://drive.google.com/file/d/16wEOgiugT6yDj698yoZJeyUgg-5Z8qJ-/view?usp=sharing 
